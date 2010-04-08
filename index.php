@@ -63,7 +63,5 @@ imagejpeg($out,"out.jpg");
 </pre>
 <img src="out.jpg" width="100%">
 
-
-
 </body>
 </html>
