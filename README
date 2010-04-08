@@ -1,0 +1,17 @@
+I use windows 7.
+And I have 3 monitors like this: |_|__|_|
+The middle screen is the big one, and primary one.
+And I want to have a large stitched picture spanning over the three.
+
+BUT WINDOWS OR ATI IS TRYING TO ANNOY ME!!!
+
+The picture is spanning from the primary monitor to the right and then to the left.
+Additionally, the monitors have different resolutions and are not the same height.
+
+SO:
+
+This script does some copy/resizing to make the picture fit my setup.
+
+Ugly code, but working.
+
+Now I can use this prototype to check out git - and turn the ugly php script into a cool picture-transform-application...
